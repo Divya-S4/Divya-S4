@@ -1,38 +1,52 @@
 
-Hi there, I'm Divya S. 👋
+Hi, I'm Divya S 👋
 
-🎓 MCA Graduate passionate about transforming data into meaningful insights through analysis and visualization.
+Data Analyst based in Bengaluru, India 🇮🇳
 
-I'm actively seeking Data Analyst opportunities where I can apply my skills in data cleaning, exploratory data analysis, dashboard development, and business intelligence to solve real-world business problems.
+🎓 MCA (Master of Computer Applications), Acharya Institute of Technology, Bengaluru — CGPA 8.70/10 (Feb 2024 – Jan 2026)
 
-💼 Skills
+🎓 BCA, Bangalore University — CGPA 8.09/10
 
-Programming: Python, SQL
+🔍 Background in data analysis: SQL, Power BI, Python (pandas), statistics & hypothesis testing
 
-Data Analysis: Data Cleaning, EDA, Statistical Analysis
+💻 Comfortable with Python; open to Java for roles that need it
 
-Visualization: Power BI, Microsoft Excel
+🧪 Former Data Analyst Intern @ Cognifyz Technologies (Dec 2024 – Jan 2025)
 
-Libraries: Pandas, NumPy, Matplotlib
+📊 Completed a Data Visualisation Job Simulation at Tata Consultancy Services (via Forage), Aug 2026
 
-Database: MySQL
+📜 Certifications: Data Analysis (Tutedude, June 2025) · AWS Academy Cloud Foundations (June 2024)
 
-Tools: Git, GitHub, VS Code, Jupyter Notebook
+🌱 Currently applying for Data Analyst / Data Engineering roles
 
-AI Tools: ChatGPT, Microsoft Copilot, Google Gemini, GitHub Copilot
+🔗 Portfolio: divyas2026.netlify.app
+
+📫 Reach me: divyas.4.2002.1@gmail.com
 
 
-📊 Projects
 
-☕ Coffee Shop Sales Dashboard (Excel)
+🚀 Featured Projects
 
-🛒 Retail Sales Analysis
+📉 Customer Churn Analysis Dashboard
 
-📊 Customer Churn Analysis
+Interactive dashboard analyzing customer churn patterns. SQL MySQL Power BI DAX
 
-📫 Connect with Me
+🛒 Retail Sales Analytics Dashboard
 
-LinkedIn: https://www.linkedin.com/in/divya-s200204/
+End-to-end retail sales analytics with drill-down insights. SQL Power BI DAX
 
-Email: divyas.4.2002.1@gmail.com
+📦 Walmart Sales & Inventory Dashboard
 
+Sales and inventory tracking app built with Streamlit. Python Streamlit Pandas
+
+🍪 Cookie Cats A/B Testing Analysis
+
+Statistical A/B test analysis on a mobile game retention dataset. Python Chi-Square Testing Seaborn
+
+📈 Quick-Commerce Churn Prediction
+
+Churn prediction model with feature engineering for a quick-commerce use case. Python scikit-learn MySQL Feature Engineering
+
+🛠️ Tech Stack
+
+Languages: Python · SQL · Java (basic) Data & Analytics: Pandas · NumPy · Power BI · DAX · Statistics/Hypothesis Testing ML: scikit-learn Tools: MySQL · Streamlit · Git/GitHub · AWS (Cloud Foundations)
